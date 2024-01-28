@@ -1,0 +1,30 @@
+
+body {
+    background-color: #E8ECEF;
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+  
+  .secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+  }
+
+  .booking-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333; /* Adjust the color as needed */
+    /* Add any other styling properties you want */
+  }
+  
+  .booking-heading span {
+    color: #ff0000; /* Adjust the color for the span as needed */
+    /* Add any other styling properties for the span */
+  }
+  
+  
